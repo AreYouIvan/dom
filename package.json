@@ -1,5 +1,5 @@
 {
-  "homepage": "https://github.com/AreYouIvan/dom",
+  "homepage": "https://areyouivan.github.io/dom/",
   "scripts": {
     "start": "snowpack dev",
     "build": "snowpack build",
